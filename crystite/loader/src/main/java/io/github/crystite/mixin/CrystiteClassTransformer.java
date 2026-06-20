@@ -1,28 +1,51 @@
 package io.github.crystite.mixin;
 
+import org.objectweb.asm.ClassReader;
+import org.objectweb.asm.ClassWriter;
 import org.objectweb.asm.tree.ClassNode;
-import org.objectweb.asm.tree.MethodNode;
-import org.objectweb.asm.*;
 import org.spongepowered.asm.mixin.MixinEnvironment;
 import org.spongepowered.asm.mixin.transformer.IMixinTransformer;
+import org.spongepowered.asm.mixin.transformer.IMixinTransformerFactory;
+import org.spongepowered.asm.service.IClassProvider;
 import org.spongepowered.asm.service.IMixinService;
 import org.spongepowered.asm.service.ITransformer;
 
+import java.io.InputStream;
 import java.lang.instrument.ClassFileTransformer;
+import java.lang.reflect.Constructor;
 import java.security.ProtectionDomain;
 import java.util.*;
 
-public class CrystiteClassTransformer implements ClassFileTransformer {
-    private final List<MixinConfig> mixinConfigs;
+public class CrystiteClassTransformer implements ClassFileTransformer, ITransformer {
     private final Map<String, byte[]> transformedClasses;
+    private final CrystiteMixinService mixinService;
+    private IMixinTransformer mixinTransformer;
 
     public CrystiteClassTransformer() {
-        this.mixinConfigs = new ArrayList<>();
         this.transformedClasses = new HashMap<>();
+        this.mixinService = new CrystiteMixinService();
+        MixinEnvironment.getCurrentEnvironment().setActiveSource(IMixinService.class, mixinService);
+    }
+
+    public void initialize() {
+        try {
+            IMixinTransformerFactory factory = (IMixinTransformerFactory)
+                Class.forName("org.spongepowered.asm.mixin.transformer.MixinTransformer")
+                    .getDeclaredConstructor(IMixinService.class)
+                    .newInstance(mixinService);
+            this.mixinTransformer = factory.createTransformer();
+        } catch (Exception e) {
+            System.err.println("Failed to initialize Mixin transformer: " + e.getMessage());
+        }
     }
 
     public void registerMixinConfig(String configPath, ClassLoader classLoader) {
-        mixinConfigs.add(new MixinConfig(configPath, classLoader));
+        try {
+            org.spongepowered.asm.mixin.Mixins.addConfiguration(configPath);
+            System.out.println("Registered mixin config: " + configPath);
+        } catch (Exception e) {
+            System.err.println("Failed to register mixin config " + configPath + ": " + e.getMessage());
+        }
     }
 
     @Override
@@ -34,36 +57,21 @@ public class CrystiteClassTransformer implements ClassFileTransformer {
             return null;
         }
 
-        String internalName = className.replace('.', '/');
-        List<MixinConfig> applicableConfigs = new ArrayList<>();
-
-        for (MixinConfig config : mixinConfigs) {
-            if (config.appliesTo(internalName)) {
-                applicableConfigs.add(config);
-            }
-        }
-
-        if (applicableConfigs.isEmpty()) {
-            return null;
-        }
-
         try {
-            ClassReader reader = new ClassReader(classfileBuffer);
-            ClassNode classNode = new ClassNode();
-            reader.accept(classNode, ClassReader.EXPAND_FRAMES);
+            String name = className.replace('/', '.');
+            byte[] result = classfileBuffer;
 
-            for (MixinConfig config : applicableConfigs) {
-                config.apply(className, classNode);
+            if (mixinTransformer != null) {
+                result = mixinTransformer.transformClass(name, name, result);
             }
 
-            ClassWriter writer = new ClassWriter(ClassWriter.COMPUTE_MAXS | ClassWriter.COMPUTE_FRAMES);
-            classNode.accept(writer);
-            byte[] result = writer.toByteArray();
-            transformedClasses.put(className, result);
-            return result;
+            if (result != classfileBuffer) {
+                transformedClasses.put(className, result);
+            }
+
+            return result != classfileBuffer ? result : null;
 
         } catch (Exception e) {
-            System.err.println("Failed to transform class " + className + ": " + e.getMessage());
             return null;
         }
     }
@@ -72,22 +80,18 @@ public class CrystiteClassTransformer implements ClassFileTransformer {
         return transformedClasses.get(className);
     }
 
-    private static class MixinConfig {
-        final String configPath;
-        final ClassLoader classLoader;
-        final List<String> targetClasses;
+    @Override
+    public String getName() {
+        return "CrystiteTransformer";
+    }
 
-        MixinConfig(String configPath, ClassLoader classLoader) {
-            this.configPath = configPath;
-            this.classLoader = classLoader;
-            this.targetClasses = new ArrayList<>();
-        }
+    @Override
+    public boolean isDelegationExcluded() {
+        return false;
+    }
 
-        boolean appliesTo(String internalName) {
-            return false;
-        }
-
-        void apply(String className, ClassNode classNode) {
-        }
+    @Override
+    public boolean isPreFilter() {
+        return true;
     }
 }

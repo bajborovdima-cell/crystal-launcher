@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.crystite.CrystiteModLoaderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-06-20T11:56:04.524Z" hostname="DIMOS11PRO" time="0.085">
+  <properties/>
+  <testcase name="testEventBus()" classname="io.github.crystite.CrystiteModLoaderTest" time="0.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
