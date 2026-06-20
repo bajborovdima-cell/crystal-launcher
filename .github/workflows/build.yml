@@ -11,6 +11,13 @@ jobs:
     strategy:
       matrix:
         os: [windows-latest, ubuntu-latest, macos-latest]
+        include:
+          - os: windows-latest
+            flags: --win portable --config.win.sign=false
+          - os: ubuntu-latest
+            flags: --linux
+          - os: macos-latest
+            flags: --mac
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v4
@@ -19,8 +26,9 @@ jobs:
           node-version: 22
       - working-directory: minecraft-launcher
         run: npm ci
-      - working-directory: minecraft-launcher
-        run: npx electron-builder --config.win.sign=false
+      - name: Build
+        working-directory: minecraft-launcher
+        run: npx electron-builder ${{ matrix.flags }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/upload-artifact@v4

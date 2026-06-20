@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Crystal Launcher — Minecraft",
   "main": "main.js",
+  "repository": "bajborovdima-cell/crystal-launcher",
   "scripts": {
     "start": "electron .",
     "build": "electron-builder",
