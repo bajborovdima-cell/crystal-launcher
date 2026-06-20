@@ -1,0 +1,1149 @@
+[13:26:38] [main/INFO] [FalsePatternLib/]: Reconfigured logger (2 contexts) to use config at jar:file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar!/log4j2.xml
+[13:26:38] [main/INFO] [FalsePatternLib/]: Earlier messages may be located in latest.log
+[13:26:38] [main/DEBUG] [FalsePatternLib/]: Couldn't find latest.log at C:\Users\dimos\AppData\Roaming\.crystal-launcher\game\logs\latest.log
+[13:26:38] [main/INFO] [FalsePatternLib/]: Magic cookie: 44b92d1f-b706-4732-82cd-63fdd9530e70
+[13:26:38] [main/TRACE] [FML/]: coremod named falsepatternlib is loading
+[13:26:38] [main/DEBUG] [FML/]: The coremod com.falsepattern.lib.internal.asm.CoreLoadingPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod falsepatternlib
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy fastcraft-1.25.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker fastcraft.Tweaker from fastcraft-1.25.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy FastLeafDecay-1.7.10-1.4.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in FastLeafDecay-1.7.10-1.4.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class FldLoadingPlugin
+[13:26:38] [main/DEBUG] [FML/]: The coremod com.olafski.fastleafdecay.FldLoadingPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod FldLoadingPlugin
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy findit-1.4.2.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in findit-1.4.2.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy FoamFix-1.7.10-universal-1.0.4.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in FoamFix-1.7.10-universal-1.0.4.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class FoamFixCore
+[13:26:38] [main/TRACE] [FML/]: coremod named FoamFix/1.7 (Do not report to Forge!) is loading
+[13:26:38] [main/WARN] [FML/]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod FoamFix/1.7 (Do not report to Forge!)
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy forgeessentials-1.7.10-7.5.1-client.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from forgeessentials-1.7.10-7.5.1-client.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy forgelin-2.0.3-GTNH.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in forgelin-2.0.3-GTNH.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class ForgelinPlugin
+[13:26:38] [main/TRACE] [FML/]: coremod named Forgelin Core is loading
+[13:26:38] [main/DEBUG] [FML/]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod Forgelin Core
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeMultipart-1.7.6.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in ForgeMultipart-1.7.6.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy ForgeRelocation-0.3.4.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in ForgeRelocation-0.3.4.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class RelocationPlugin
+[13:26:38] [main/DEBUG] [FML/]: The coremod mrtjp.relocation.asm.RelocationPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod RelocationPlugin
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy freecam-1.0.8.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from freecam-1.0.8.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy GravityGun-4.0.0-beta.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in GravityGun-4.0.0-beta.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy gtnhlib-0.10.1.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from gtnhlib-0.10.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy HardcoreEnderExpansion-1.12.16-GTNH.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from HardcoreEnderExpansion-1.12.16-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy HBM-NTM-[1.0.27_X5704_NTNH].jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in HBM-NTM-[1.0.27_X5704_NTNH].jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy HelpFixer-1.3.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in HelpFixer-1.3.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy HungerOverhaul-1.1.0-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in HungerOverhaul-1.1.0-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy iChunUtil-4.2.3.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in iChunUtil-4.2.3.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy immersivecavegen-1.2g-hotfix5.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in immersivecavegen-1.2g-hotfix5.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class MysteriumPatchesFixLoaderB
+[13:26:38] [main/WARN] [FML/]: The coremod net.tclproject.mysteriumlib.asm.fixes.MysteriumPatchesFixLoaderB does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod MysteriumPatchesFixLoaderB
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Improving Minecraft-1.7.10-v5.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Improving Minecraft-1.7.10-v5.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class IMCLoadingPlugin
+[13:26:38] [main/DEBUG] [FML/]: The coremod imc.asm.IMCLoadingPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod IMCLoadingPlugin
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy InGameInfoXML-2.9.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in InGameInfoXML-2.9.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy IronChest-6.1.13.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in IronChest-6.1.13.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy itemphysic-1.3.0.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from itemphysic-1.3.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy itlt-1.7.10-1.0.4.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in itlt-1.7.10-1.0.4.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy jaad-0.8.5.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in jaad-0.8.5.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy JustEnoughCalculation-1.7.10-4.9.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in JustEnoughCalculation-1.7.10-4.9.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy laggoggles-mc1.7.10-4.17.0.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from laggoggles-mc1.7.10-4.17.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy LunatriusCore-1.2.1-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in LunatriusCore-1.2.1-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Mantle-0.5.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in Mantle-0.5.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy matter-manipulator-0.1.34-GTNH-pre.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from matter-manipulator-0.1.34-GTNH-pre.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy MineTweakerRecipeMaker-1.7.10-1.1.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in MineTweakerRecipeMaker-1.7.10-1.1.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy mobsinfo-0.5.10-GTNH.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from mobsinfo-0.5.10-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy modernmarkings-0.3.12-1.7.10.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in modernmarkings-0.3.12-1.7.10.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Modpack Configuration Checker-1.7.10-v1.5.3.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in Modpack Configuration Checker-1.7.10-v1.5.3.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy ModTweaker2-0.13.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in ModTweaker2-0.13.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy modularui-1.3.4.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from modularui-1.3.4.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy modularui2-2.3.64-1.7.10.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from modularui2-2.3.64-1.7.10.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy mp3spi-1.9.5-1.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in mp3spi-1.9.5-1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy MrTJPCore-1.3.5.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in MrTJPCore-1.3.5.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy naturescompass-1.5.2-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in naturescompass-1.5.2-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy navigator-1.1.3.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from navigator-1.1.3.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy NEIAddons-1.18.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in NEIAddons-1.18.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy NEIIntegration-1.5.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in NEIIntegration-1.5.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy neodymium-mc1.7.10-0.4.3-unofficial.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from neodymium-mc1.7.10-0.4.3-unofficial.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy netherlicious-3.2.8.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in netherlicious-3.2.8.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy netherportalfix-1.4.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in netherportalfix-1.4.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy neverenoughanimations-v1.0.6-1-7-10.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from neverenoughanimations-v1.0.6-1-7-10.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy NoMoreRecipeConflict-0.3(1.7.10).jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in NoMoreRecipeConflict-0.3(1.7.10).jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy NotEnoughEnergistics-1.7.29.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in NotEnoughEnergistics-1.7.29.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy NotEnoughItems-2.8.98-GTNH.jar
+[13:26:38] [main/TRACE] [FML/]: Adding NotEnoughItems-2.8.98-GTNH.jar to the list of known coremods, it will not be examined again
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class NEICorePlugin
+[13:26:38] [main/DEBUG] [FML/]: The coremod codechicken.nei.asm.NEICorePlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod NEICorePlugin
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy NotEnoughResources-1.7.10-0.1.0-122.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in NotEnoughResources-1.7.10-0.1.0-122.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy oauth-1.3.3-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in oauth-1.3.3-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy OpenBlocks-1.12.14-GTNH.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in OpenBlocks-1.12.14-GTNH.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class OpenBlocksCorePlugin
+[13:26:38] [main/DEBUG] [FML/]: The coremod openblocks.OpenBlocksCorePlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod OpenBlocksCorePlugin
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy OpenComputers-1.12.41-GTNH-pre.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in OpenComputers-1.12.41-GTNH-pre.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class TransformerLoader
+[13:26:38] [main/DEBUG] [FML/]: The coremod li.cil.oc.common.launch.TransformerLoader requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod TransformerLoader
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy OpenFM-1.7.10-0.1.0-45.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in OpenFM-1.7.10-0.1.0-45.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class DepLoader
+[13:26:38] [main/WARN] [FML/]: The coremod pcl.OpenFM.misc.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod DepLoader
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy OpenGlasses-1.6.1-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in OpenGlasses-1.6.1-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy OpenModsLibs-0.10.14.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in OpenModsLibs-0.10.14.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class OpenModsCorePlugin
+[13:26:38] [main/DEBUG] [FML/]: The coremod openmods.core.OpenModsCorePlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [OpenMods/]: openmods.core.OpenModsCorePlugin.<init>(OpenModsCorePlugin.java:23): <OpenModsLib 0.10.14>\o
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod OpenModsCorePlugin
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy openprinter-0.3.0-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in openprinter-0.3.0-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy opensecurity-1.2.0-GTNH.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in opensecurity-1.2.0-GTNH.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class SoundUnpack
+[13:26:38] [main/DEBUG] [FML/]: The coremod pcl.opensecurity.util.SoundUnpack requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod SoundUnpack
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Opis-1.4.6-mapless.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Opis-1.4.6-mapless.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class CoreDescription
+[13:26:38] [main/DEBUG] [FML/]: The coremod mcp.mobius.mobiuscore.asm.CoreDescription requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod CoreDescription
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Opticubes-1.7.10-1.0.0.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Opticubes-1.7.10-1.0.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Pam's Harvest the Nether 1.7.10a.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in Pam's Harvest the Nether 1.7.10a.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Pam's HarvestCraft 1.7.10Lb.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in Pam's HarvestCraft 1.7.10Lb.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy ProjectBlue-1.2.5-GTNH-pre.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in ProjectBlue-1.2.5-GTNH-pre.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy ProjRed-4.12.38-GTNH.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from ProjRed-4.12.38-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy RandomThings-2.7.1.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from RandomThings-2.7.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy realisticbrewingstand-1.3.0.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in realisticbrewingstand-1.3.0.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class RBSHookLoader
+[13:26:38] [main/INFO] [FML/]: [HOOKLIB]  Obfuscated: true
+[13:26:38] [main/WARN] [FML/]: The coremod mjaroslav.mcmods.realisticbrewingstand.hook.RBSHookLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod RBSHookLoader
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy rechests-1.0.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in rechests-1.0.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy ResourcePackOrganizer  MC-1.7.10  v1.0.2.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in ResourcePackOrganizer  MC-1.7.10  v1.0.2.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy RTG-1.1.6-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in RTG-1.1.6-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Satchels-1.7.10-1.0.7.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Satchels-1.7.10-1.0.7.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Schematica-1.12.6-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in Schematica-1.12.6-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy ServerUtilities-2.2.32.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from ServerUtilities-2.2.32.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy shaderfixer-5.3.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from shaderfixer-5.3.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy SignPicture-1.7.10-2.8.0-universal.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in SignPicture-1.7.10-2.8.0-universal.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class SignPictureCorePlugin
+[13:26:38] [main/WARN] [FML/]: The coremod com.kamesuta.mc.signpic.asm.SignPictureCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod SignPictureCorePlugin
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy SimpleOreScanner-1.7.10-1.0.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in SimpleOreScanner-1.7.10-1.0.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy SkinPort-1.7.10-v10d.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in SkinPort-1.7.10-v10d.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class Plugin
+[13:26:38] [main/TRACE] [FML/]: coremod named skinport is loading
+[13:26:38] [main/WARN] [FML/]: The coremod lain.mods.skinport.init.forge.asm.Plugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod skinport
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy SlimeVoid-Library-1.7.10.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in SlimeVoid-Library-1.7.10.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy SmartTreeFelling-1.7.10-1.3.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in SmartTreeFelling-1.7.10-1.3.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy SoundFilters-0.8_for_1.7.X.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in SoundFilters-0.8_for_1.7.X.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy SpecialAI-1.2.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in SpecialAI-1.2.0.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy SpiceOfLife-2.2.9-carrot.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in SpiceOfLife-2.2.9-carrot.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Stackie-1.7.10-1.6.0.36-universal.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in Stackie-1.7.10-1.6.0.36-universal.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy StorageDrawers-2.2.21-GTNH.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from StorageDrawers-2.2.21-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy structurecompat-0.7.4.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in structurecompat-0.7.4.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy structurelib-1.4.34.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from structurelib-1.4.34.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy tabfaces-1.0.11-rc1.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from tabfaces-1.0.11-rc1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy TooManyDanyOres-1.7.10-b1.0-3-forge-1199.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in TooManyDanyOres-1.7.10-b1.0-3-forge-1199.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy TooMuchLoot-4.3.0-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in TooMuchLoot-4.3.0-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy txloader-1.8.6-pre.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in txloader-1.8.6-pre.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class TXLoaderCore
+[13:26:38] [main/TRACE] [FML/]: coremod named TX Loader Core is loading
+[13:26:38] [main/DEBUG] [FML/]: The coremod glowredman.txloader.TXLoaderCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod TX Loader Core
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy underphangables-1.7.10-1.0.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in underphangables-1.7.10-1.0.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy UniLib-1.2.1+1.7.10-forge.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in UniLib-1.2.1+1.7.10-forge.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy VendingBlockRevived-v1.2.3.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in VendingBlockRevived-v1.2.3.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy VillageNames-4.5.8-GTNH.jar
+[13:26:38] [main/INFO] [FML/]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from VillageNames-4.5.8-GTNH.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy vorbisspi-1.0.3-1.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in vorbisspi-1.0.3-1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy wdmla-2.8.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in wdmla-2.8.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy WirelessCraftingTerminal-1.12.16.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in WirelessCraftingTerminal-1.12.16.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Xaeros_Minimap_21.10.44_Forge_1.7.10.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_21.10.44_Forge_1.7.10.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class XaeroMinimapPlugin
+[13:26:38] [main/DEBUG] [FML/]: The coremod xaero.common.core.XaeroMinimapPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod XaeroMinimapPlugin
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar
+[13:26:38] [main/TRACE] [FML/]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar, it will be examined later for regular @Mod instances
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class XaeroWorldMapPlugin
+[13:26:38] [main/DEBUG] [FML/]: The coremod xaero.map.core.XaeroWorldMapPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/DEBUG] [FML/]: Enqueued coremod XaeroWorldMapPlugin
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy YAMCore-0.7.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in YAMCore-0.7.1.jar
+[13:26:38] [main/DEBUG] [FML/]: Examining for coremod candidacy Zora-no-Densha-1.7.10-0.10.1-snapshot.101.jar
+[13:26:38] [main/DEBUG] [FML/]: Not found coremod data in Zora-no-Densha-1.7.10-0.10.1-snapshot.101.jar
+[13:26:38] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:26:38] [main/INFO] [LaunchWrapper/]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[13:26:38] [main/DEBUG] [mixin/]: MixinService [LaunchWrapper] was successfully booted in sun.misc.Launcher$AppClassLoader@3fee733d
+[13:26:38] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar Service=LaunchWrapper Env=CLIENT
+[13:26:38] [main/DEBUG] [mixin/]: Adding new mixin transformer proxy #1
+[13:26:38] [main/DEBUG] [mixin/]: Initialising Mixin Platform Manager
+[13:26:38] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar)
+[13:26:38] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar)
+[13:26:38] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for +unimixins-all-1.7.10-0.3.0.jar, attempting force-load
+[13:26:38] [main/DEBUG] [mixin/]: Adding +unimixins-all-1.7.10-0.3.0.jar to reparseable coremod collection
+[13:26:38] [main/DEBUG] [mixin/]: +unimixins-all-1.7.10-0.3.0.jar has core plugin io.github.legacymoddingmc.unimixins.all.AllCore. Injecting it into FML for co-initialisation:
+[13:26:38] [main/DEBUG] [FML/]: Instantiating coremod class AllCore
+[13:26:38] [main/DEBUG] [mixin/]: Preparing mixins for MixinEnvironment[PREINIT]
+[13:26:38] [main/DEBUG] [unimixins/]: Name of jar containing MixinCore: +unimixins-all-1.7.10-0.3.0.jar
+[13:26:38] [main/DEBUG] [unimixins/]: Name of jar containing MixinTweaker: +unimixins-all-1.7.10-0.3.0.jar
+[13:26:38] [main/INFO] [MixinBooter/]: MixinBootstrap Initializing...
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @Inject with org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @ModifyArg with org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @ModifyArgs with org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @Redirect with org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @ModifyVariable with org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @ModifyConstant with org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @ModifyExpressionValue with io.github.tox1cozz.mixinextras.injector.ModifyExpressionValueInjectionInfo
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @ModifyReceiver with io.github.tox1cozz.mixinextras.injector.ModifyReceiverInjectionInfo
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @ModifyReturnValue with io.github.tox1cozz.mixinextras.injector.ModifyReturnValueInjectionInfo
+[13:26:38] [main/DEBUG] [mixin/]: Registering new injector for @WrapWithCondition with io.github.tox1cozz.mixinextras.injector.WrapWithConditionInjectionInfo
+[13:26:38] [main/INFO] [mixin/]: Compatibility level set to JAVA_8
+[13:26:38] [main/DEBUG] [mixin/]: Checking for additional mixins for MixinEnvironment[PREINIT]
+[13:26:38] [main/DEBUG] [mixin/]: Selecting config mixin.mixinbooterlegacy.json
+[13:26:38] [main/DEBUG] [mixin/]: Preparing mixin.mixinbooterlegacy.json (1)
+[13:26:38] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Rebuilding transformer delegation list:
+[13:26:38] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]:   Adding:    cpw.mods.fml.common.asm.transformers.PatchingTransformer
+[13:26:38] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[13:26:38] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Transformer delegation list created with 1 entries
+[13:26:38] [main/TRACE] [mixin/]: Added class metadata for cpw/mods/fml/common/LoadController to metadata cache
+[13:26:38] [main/DEBUG] [GTNHMixins/]: Initializing GTNHMixins Core
+[13:26:38] [main/DEBUG] [FML/]: The coremod io.github.legacymoddingmc.unimixins.all.AllCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:38] [main/INFO] [unimixins/]: Instantiating AllCore
+[13:26:38] [main/INFO] [unimixins/]: Instantiating CompatCore
+[13:26:38] [main/DEBUG] [unimixins/]: Resolved real package prefix to: org/spongepowered/asm/lib/
+[13:26:38] [main/INFO] [unimixins-mixinextras/]: Instantiating MixinExtrasCore
+[13:26:39] [main/DEBUG] [MixinExtras|Service/]: com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0) is taking over from null
+[13:26:39] [main/DEBUG] [FML/]: Added access transformer class io.github.legacymoddingmc.unimixins.all.AllCore$CombinedAccessTransformer to enqueued access transformers
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod AllCore
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar)
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/versions/1.7.10/1.7.10.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/mojang/netty/1.8.8/netty-1.8.8.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/mojang/realms/1.3.5/realms-1.3.5.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/google/guava/guava/15.0/guava-15.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/tv/twitch/twitch/5.16/twitch-5.16.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/com/google/guava/guava/17.0/guava-17.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+Mycelium-2.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/1.7.10-ASJCore-1.5.2.2.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/anextratouch-0.0.11.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/angelica-2.1.20.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/AppleCore-3.3.10.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/appliedenergistics2-rv3-beta-939-GTNH-pre.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/archaicfix-0.7.6.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/backhand-1.8.10.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bettercrashes-1.4.1-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BetterFps-1.0.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/betterloadingscreen-1.7.8-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Blur-MC1.7.10-1.0.1-2.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bogosorter-1.3.12-GTNH-pre.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Bookshelf-1.7.10-1.0.4.187.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/buddingpolar-v1.0.6-1.7.10.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BugTorched-1.7.10-1.2.14.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/campfirebackport-1.7.10-1.11.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/CarbonConfig-1.7.10-1.2.4.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltips-1.0.18.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltipscompat-1.0.24.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Chunk-Pregenerator-1.7.10-4.4.9.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/CodeChickenCore-1.4.12.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/CoFHCore-%5B1.7.10%5D3.1.4-329.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/controlling-2.1.7.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/coretweaks-0.3.4.2-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/darkerer-1.1.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultkeys-1.3.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultserverlist-1.7.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DMod-1.7.10-1.0.3.5+nomixin.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/duradisplay-1.4.2.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DynamicSurroundings-1.7.10-1.0.6.4.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/EnderCore-1.7.10-0.2.0.40_beta.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/etfuturum-2.6.31-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/falsepatternlib-mc1.7.10-1.11.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/falsepattern/fplib_deploader.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/fastcraft-1.25.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/FastLeafDecay-1.7.10-1.4.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/FoamFix-1.7.10-universal-1.0.4.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgeessentials-1.7.10-7.5.1-client.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgelin-2.0.3-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ForgeRelocation-0.3.4.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/freecam-1.0.8.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/gtnhlib-0.10.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/HardcoreEnderExpansion-1.12.16-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/immersivecavegen-1.2g-hotfix5.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Improving%20Minecraft-1.7.10-v5.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/itemphysic-1.3.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/laggoggles-mc1.7.10-4.17.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/matter-manipulator-0.1.34-GTNH-pre.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/mobsinfo-0.5.10-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui-1.3.4.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui2-2.3.64-1.7.10.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/navigator-1.1.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neodymium-mc1.7.10-0.4.3-unofficial.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neverenoughanimations-v1.0.6-1-7-10.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/NotEnoughItems-2.8.98-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/OpenBlocks-1.12.14-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/OpenComputers-1.12.41-GTNH-pre.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/OpenFM-1.7.10-0.1.0-45.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/OpenModsLibs-0.10.14.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/opensecurity-1.2.0-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opis-1.4.6-mapless.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opticubes-1.7.10-1.0.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ProjRed-4.12.38-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/RandomThings-2.7.1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/realisticbrewingstand-1.3.0.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Satchels-1.7.10-1.0.7.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ServerUtilities-2.2.32.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/shaderfixer-5.3.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/SignPicture-1.7.10-2.8.0-universal.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/SkinPort-1.7.10-v10d.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/StorageDrawers-2.2.21-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/structurelib-1.4.34.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/tabfaces-1.0.11-rc1.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/txloader-1.8.6-pre.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/VillageNames-4.5.8-GTNH.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Xaeros_Minimap_21.10.44_Forge_1.7.10.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper/]: Scanning file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar for mixin tweaker
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/+unimixins-all-1.7.10-0.3.0.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/anextratouch-0.0.11.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/anextratouch-0.0.11.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/anextratouch-0.0.11.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for anextratouch-0.0.11.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding anextratouch-0.0.11.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: anextratouch-0.0.11.jar has core plugin org.fentanylsolutions.anextratouch.core.EarlyMixinLoader. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class EarlyMixinLoader
+[13:26:39] [main/DEBUG] [FML/]: The coremod org.fentanylsolutions.anextratouch.core.EarlyMixinLoader requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod EarlyMixinLoader
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/anextratouch-0.0.11.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/anextratouch-0.0.11.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/anextratouch-0.0.11.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/anextratouch-0.0.11.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/anextratouch-0.0.11.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/angelica-2.1.20.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/angelica-2.1.20.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/angelica-2.1.20.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for angelica-2.1.20.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding angelica-2.1.20.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: angelica-2.1.20.jar has core plugin com.gtnewhorizons.angelica.loading.AngelicaTweaker. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class AngelicaTweaker
+[13:26:39] [main/DEBUG] [FML/]: The coremod com.gtnewhorizons.angelica.loading.AngelicaTweaker requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod AngelicaTweaker
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/angelica-2.1.20.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/angelica-2.1.20.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/angelica-2.1.20.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/angelica-2.1.20.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/angelica-2.1.20.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/AppleCore-3.3.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/AppleCore-3.3.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/AppleCore-3.3.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for AppleCore-3.3.10.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding AppleCore-3.3.10.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: AppleCore-3.3.10.jar has core plugin squeek.applecore.mixinplugin.AppleCoreLoadingPugin. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class AppleCoreLoadingPugin
+[13:26:39] [main/DEBUG] [FML/]: The coremod squeek.applecore.mixinplugin.AppleCoreLoadingPugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod AppleCoreLoadingPugin
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/AppleCore-3.3.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/AppleCore-3.3.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/AppleCore-3.3.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/AppleCore-3.3.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/AppleCore-3.3.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar has core plugin com.fuzs.aquaacrobatics.core.AquaAcrobaticsCore. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class AquaAcrobaticsCore
+[13:26:39] [main/TRACE] [FML/]: coremod named Aqua Acrobatics Transformer is loading
+[13:26:39] [main/DEBUG] [FML/]: The coremod com.fuzs.aquaacrobatics.core.AquaAcrobaticsCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod Aqua Acrobatics Transformer
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/aquaacrobatics-0.0.6-1-7-10.44+6fc0f073fd-dirty.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/archaicfix-0.7.6.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/archaicfix-0.7.6.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/archaicfix-0.7.6.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for archaicfix-0.7.6.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding archaicfix-0.7.6.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: archaicfix-0.7.6.jar has core plugin org.embeddedt.archaicfix.ArchaicCore. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class ArchaicCore
+[13:26:39] [main/TRACE] [FML/]: coremod named ArchaicCore is loading
+[13:26:39] [main/DEBUG] [FML/]: The coremod org.embeddedt.archaicfix.ArchaicCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod ArchaicCore
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/archaicfix-0.7.6.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/archaicfix-0.7.6.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/archaicfix-0.7.6.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/archaicfix-0.7.6.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/archaicfix-0.7.6.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/backhand-1.8.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/backhand-1.8.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/backhand-1.8.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for backhand-1.8.10.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding backhand-1.8.10.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: backhand-1.8.10.jar has core plugin xonin.backhand.coremod.BackhandLoadingPlugin. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class BackhandLoadingPlugin
+[13:26:39] [main/DEBUG] [FML/]: The coremod xonin.backhand.coremod.BackhandLoadingPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod BackhandLoadingPlugin
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/backhand-1.8.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/backhand-1.8.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/backhand-1.8.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/backhand-1.8.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/backhand-1.8.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bettercrashes-1.4.1-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bettercrashes-1.4.1-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bettercrashes-1.4.1-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for bettercrashes-1.4.1-GTNH.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding bettercrashes-1.4.1-GTNH.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: bettercrashes-1.4.1-GTNH.jar has core plugin vfyjxf.bettercrashes.mixins.MixinPlugin. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class MixinPlugin
+[13:26:39] [main/TRACE] [FML/]: coremod named BetterCrashes is loading
+[13:26:39] [main/DEBUG] [FML/]: The coremod vfyjxf.bettercrashes.mixins.MixinPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod BetterCrashes
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bettercrashes-1.4.1-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bettercrashes-1.4.1-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bettercrashes-1.4.1-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bettercrashes-1.4.1-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bettercrashes-1.4.1-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bogosorter-1.3.12-GTNH-pre.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bogosorter-1.3.12-GTNH-pre.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bogosorter-1.3.12-GTNH-pre.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for bogosorter-1.3.12-GTNH-pre.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding bogosorter-1.3.12-GTNH-pre.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: bogosorter-1.3.12-GTNH-pre.jar has core plugin com.cleanroommc.bogosorter.core.BogoSorterCore. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class BogoSorterCore
+[13:26:39] [main/TRACE] [FML/]: coremod named BogoSorter-Core is loading
+[13:26:39] [main/DEBUG] [FML/]: The coremod com.cleanroommc.bogosorter.core.BogoSorterCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod BogoSorter-Core
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bogosorter-1.3.12-GTNH-pre.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bogosorter-1.3.12-GTNH-pre.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bogosorter-1.3.12-GTNH-pre.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bogosorter-1.3.12-GTNH-pre.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/bogosorter-1.3.12-GTNH-pre.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/buddingpolar-v1.0.6-1.7.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/buddingpolar-v1.0.6-1.7.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/buddingpolar-v1.0.6-1.7.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for buddingpolar-v1.0.6-1.7.10.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding buddingpolar-v1.0.6-1.7.10.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/buddingpolar-v1.0.6-1.7.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/buddingpolar-v1.0.6-1.7.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/buddingpolar-v1.0.6-1.7.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/buddingpolar-v1.0.6-1.7.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/buddingpolar-v1.0.6-1.7.10.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BugTorched-1.7.10-1.2.14.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BugTorched-1.7.10-1.2.14.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BugTorched-1.7.10-1.2.14.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for BugTorched-1.7.10-1.2.14.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding BugTorched-1.7.10-1.2.14.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: BugTorched-1.7.10-1.2.14.jar has core plugin jss.bugtorch.mixinplugin.BugTorchEarlyMixins. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class BugTorchEarlyMixins
+[13:26:39] [main/TRACE] [FML/]: coremod named BugTorchEarlyMixins is loading
+[13:26:39] [main/DEBUG] [FML/]: The coremod jss.bugtorch.mixinplugin.BugTorchEarlyMixins requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod BugTorchEarlyMixins
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BugTorched-1.7.10-1.2.14.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BugTorched-1.7.10-1.2.14.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BugTorched-1.7.10-1.2.14.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BugTorched-1.7.10-1.2.14.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/BugTorched-1.7.10-1.2.14.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/campfirebackport-1.7.10-1.11.3.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/campfirebackport-1.7.10-1.11.3.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/campfirebackport-1.7.10-1.11.3.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for campfirebackport-1.7.10-1.11.3.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding campfirebackport-1.7.10-1.11.3.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: campfirebackport-1.7.10-1.11.3.jar has core plugin connor135246.campfirebackport.CampfireBackportMixins. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class CampfireBackportMixins
+[13:26:39] [main/TRACE] [FML/]: coremod named campfirebackportmixins is loading
+[13:26:39] [main/DEBUG] [FML/]: The coremod connor135246.campfirebackport.CampfireBackportMixins requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/INFO] [campfirebackportmixins/]: Mixins are enabled!
+[13:26:39] [main/INFO] [campfirebackportmixins/]: Vanilla mixins will be applied.
+[13:26:39] [main/INFO] [campfirebackportmixins/]: Did not find the mod "Witchery".
+[13:26:39] [main/INFO] [campfirebackportmixins/]: "Witchery" mixins will NOT be applied.
+[13:26:39] [main/INFO] [campfirebackportmixins/]: Did not find the mod "Thaumcraft".
+[13:26:39] [main/INFO] [campfirebackportmixins/]: "Thaumcraft" mixins will NOT be applied.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod campfirebackportmixins
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/campfirebackport-1.7.10-1.11.3.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/campfirebackport-1.7.10-1.11.3.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/campfirebackport-1.7.10-1.11.3.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/campfirebackport-1.7.10-1.11.3.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/campfirebackport-1.7.10-1.11.3.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltips-1.0.18.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltips-1.0.18.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltips-1.0.18.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for chromatictooltips-1.0.18.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding chromatictooltips-1.0.18.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: chromatictooltips-1.0.18.jar has core plugin com.slprime.chromatictooltips.mixins.EarlyMixinsLoader. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class EarlyMixinsLoader
+[13:26:39] [main/DEBUG] [FML/]: The coremod com.slprime.chromatictooltips.mixins.EarlyMixinsLoader requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod EarlyMixinsLoader
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltips-1.0.18.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltips-1.0.18.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltips-1.0.18.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltips-1.0.18.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltips-1.0.18.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltipscompat-1.0.24.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltipscompat-1.0.24.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltipscompat-1.0.24.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for chromatictooltipscompat-1.0.24.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding chromatictooltipscompat-1.0.24.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: chromatictooltipscompat-1.0.24.jar has core plugin com.slprime.chromatictooltipscompat.mixins.EarlyMixinsLoader. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class EarlyMixinsLoader
+[13:26:39] [main/DEBUG] [mixin/]: Checking for additional mixins for MixinEnvironment[PREINIT]
+[13:26:39] [main/DEBUG] [FML/]: The coremod com.slprime.chromatictooltipscompat.mixins.EarlyMixinsLoader requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/DEBUG] [FML/]: Enqueued coremod EarlyMixinsLoader
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltipscompat-1.0.24.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltipscompat-1.0.24.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltipscompat-1.0.24.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltipscompat-1.0.24.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/chromatictooltipscompat-1.0.24.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/controlling-2.1.7.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/controlling-2.1.7.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/controlling-2.1.7.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for controlling-2.1.7.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding controlling-2.1.7.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/controlling-2.1.7.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/controlling-2.1.7.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/controlling-2.1.7.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/controlling-2.1.7.jar)
+[13:26:39] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/controlling-2.1.7.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/coretweaks-0.3.4.2-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/coretweaks-0.3.4.2-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/coretweaks-0.3.4.2-GTNH.jar)
+[13:26:39] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for coretweaks-0.3.4.2-GTNH.jar, attempting force-load
+[13:26:39] [main/DEBUG] [mixin/]: Adding coretweaks-0.3.4.2-GTNH.jar to reparseable coremod collection
+[13:26:39] [main/DEBUG] [mixin/]: coretweaks-0.3.4.2-GTNH.jar has core plugin makamys.coretweaks.CoreTweaksPlugin. Injecting it into FML for co-initialisation:
+[13:26:39] [main/DEBUG] [FML/]: Instantiating coremod class CoreTweaksPlugin
+[13:26:39] [main/DEBUG] [FML/]: The coremod makamys.coretweaks.CoreTweaksPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:39] [main/INFO] [coretweaks/]: Instantiating CoreTweaksPlugin
+[13:26:39] [main/INFO] [coretweaks/]: Disabling crash handler because BetterCrashes is present.
+[13:26:39] [main/INFO] [coretweaks/]: Disabling cloud height check fix because NotFine is present.
+[13:26:39] [main/INFO] [coretweaks/]: Adding transformer exclusions for 5 library packages
+[13:26:39] [main/DEBUG] [coretweaks/]:   Excluding com.google.gson.
+[13:26:39] [main/DEBUG] [coretweaks/]:   Excluding joptsimple.
+[13:26:39] [main/DEBUG] [coretweaks/]:   Excluding io.netty.
+[13:26:39] [main/DEBUG] [coretweaks/]:   Excluding gnu.trove.
+[13:26:39] [main/DEBUG] [coretweaks/]:   Excluding kotlin.
+[13:26:40] [main/DEBUG] [coretweaks/]: Created new lite transformer cache in 0.1406912s
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod CoreTweaksPlugin
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/coretweaks-0.3.4.2-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/coretweaks-0.3.4.2-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/coretweaks-0.3.4.2-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/coretweaks-0.3.4.2-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/coretweaks-0.3.4.2-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/darkerer-1.1.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/darkerer-1.1.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/darkerer-1.1.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for darkerer-1.1.0.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding darkerer-1.1.0.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: darkerer-1.1.0.jar has core plugin glowredman.darkerer.DarkererCore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class DarkererCore
+[13:26:40] [main/TRACE] [FML/]: coremod named Darkerer is loading
+[13:26:40] [main/DEBUG] [FML/]: The coremod glowredman.darkerer.DarkererCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod Darkerer
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/darkerer-1.1.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/darkerer-1.1.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/darkerer-1.1.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/darkerer-1.1.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/darkerer-1.1.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultserverlist-1.7.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultserverlist-1.7.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultserverlist-1.7.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: defaultserverlist-1.7.3.jar has core plugin glowredman.defaultserverlist.LoadingPlugin. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class LoadingPlugin
+[13:26:40] [main/TRACE] [FML/]: coremod named DefaultServerList Core is loading
+[13:26:40] [main/DEBUG] [FML/]: The coremod glowredman.defaultserverlist.LoadingPlugin requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod DefaultServerList Core
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultserverlist-1.7.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultserverlist-1.7.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultserverlist-1.7.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultserverlist-1.7.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/defaultserverlist-1.7.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DMod-1.7.10-1.0.3.5+nomixin.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DMod-1.7.10-1.0.3.5+nomixin.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DMod-1.7.10-1.0.3.5+nomixin.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for DMod-1.7.10-1.0.3.5+nomixin.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding DMod-1.7.10-1.0.3.5+nomixin.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DMod-1.7.10-1.0.3.5+nomixin.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DMod-1.7.10-1.0.3.5+nomixin.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DMod-1.7.10-1.0.3.5+nomixin.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DMod-1.7.10-1.0.3.5+nomixin.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/DMod-1.7.10-1.0.3.5+nomixin.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/duradisplay-1.4.2.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/duradisplay-1.4.2.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/duradisplay-1.4.2.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for duradisplay-1.4.2.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding duradisplay-1.4.2.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: duradisplay-1.4.2.jar has core plugin com.caedis.duradisplay.core.DuraDisplayCore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class DuraDisplayCore
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.caedis.duradisplay.core.DuraDisplayCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod DuraDisplayCore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/duradisplay-1.4.2.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/duradisplay-1.4.2.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/duradisplay-1.4.2.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/duradisplay-1.4.2.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/duradisplay-1.4.2.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/etfuturum-2.6.31-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/etfuturum-2.6.31-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/etfuturum-2.6.31-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for etfuturum-2.6.31-GTNH.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding etfuturum-2.6.31-GTNH.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: etfuturum-2.6.31-GTNH.jar has core plugin ganymedes01.etfuturum.mixinplugin.EtFuturumEarlyMixins. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class EtFuturumEarlyMixins
+[13:26:40] [main/TRACE] [FML/]: coremod named EtFuturumEarlyMixins is loading
+[13:26:40] [main/DEBUG] [FML/]: The coremod ganymedes01.etfuturum.mixinplugin.EtFuturumEarlyMixins requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod EtFuturumEarlyMixins
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/etfuturum-2.6.31-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/etfuturum-2.6.31-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/etfuturum-2.6.31-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/etfuturum-2.6.31-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/etfuturum-2.6.31-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgeessentials-1.7.10-7.5.1-client.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgeessentials-1.7.10-7.5.1-client.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgeessentials-1.7.10-7.5.1-client.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for forgeessentials-1.7.10-7.5.1-client.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding forgeessentials-1.7.10-7.5.1-client.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgeessentials-1.7.10-7.5.1-client.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgeessentials-1.7.10-7.5.1-client.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgeessentials-1.7.10-7.5.1-client.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgeessentials-1.7.10-7.5.1-client.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/forgeessentials-1.7.10-7.5.1-client.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/freecam-1.0.8.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/freecam-1.0.8.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/freecam-1.0.8.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for freecam-1.0.8.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding freecam-1.0.8.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: freecam-1.0.8.jar has core plugin com.caedis.freecam.core.FreecamCore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class FreecamCore
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.caedis.freecam.core.FreecamCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod FreecamCore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/freecam-1.0.8.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/freecam-1.0.8.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/freecam-1.0.8.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/freecam-1.0.8.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/freecam-1.0.8.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/gtnhlib-0.10.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/gtnhlib-0.10.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/gtnhlib-0.10.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for gtnhlib-0.10.1.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding gtnhlib-0.10.1.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: gtnhlib-0.10.1.jar has core plugin com.gtnewhorizon.gtnhlib.core.GTNHLibCore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class GTNHLibCore
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.gtnewhorizon.gtnhlib.core.GTNHLibCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod GTNHLibCore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/gtnhlib-0.10.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/gtnhlib-0.10.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/gtnhlib-0.10.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/gtnhlib-0.10.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/gtnhlib-0.10.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/HardcoreEnderExpansion-1.12.16-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/HardcoreEnderExpansion-1.12.16-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/HardcoreEnderExpansion-1.12.16-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for HardcoreEnderExpansion-1.12.16-GTNH.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding HardcoreEnderExpansion-1.12.16-GTNH.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: HardcoreEnderExpansion-1.12.16-GTNH.jar has core plugin chylex.hee.HEECore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class HEECore
+[13:26:40] [main/DEBUG] [FML/]: The coremod chylex.hee.HEECore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod HEECore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/HardcoreEnderExpansion-1.12.16-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/HardcoreEnderExpansion-1.12.16-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/HardcoreEnderExpansion-1.12.16-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/HardcoreEnderExpansion-1.12.16-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/HardcoreEnderExpansion-1.12.16-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/itemphysic-1.3.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/itemphysic-1.3.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/itemphysic-1.3.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for itemphysic-1.3.0.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding itemphysic-1.3.0.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: itemphysic-1.3.0.jar has core plugin com.creativemd.itemphysic.asm.ItemPhysicEarlyMixins. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class ItemPhysicEarlyMixins
+[13:26:40] [main/TRACE] [FML/]: coremod named ItemPhysicEarlyMixins is loading
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.creativemd.itemphysic.asm.ItemPhysicEarlyMixins requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod ItemPhysicEarlyMixins
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/itemphysic-1.3.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/itemphysic-1.3.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/itemphysic-1.3.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/itemphysic-1.3.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/itemphysic-1.3.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/laggoggles-mc1.7.10-4.17.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/laggoggles-mc1.7.10-4.17.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/laggoggles-mc1.7.10-4.17.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for laggoggles-mc1.7.10-4.17.0.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding laggoggles-mc1.7.10-4.17.0.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/laggoggles-mc1.7.10-4.17.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/laggoggles-mc1.7.10-4.17.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/laggoggles-mc1.7.10-4.17.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/laggoggles-mc1.7.10-4.17.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/laggoggles-mc1.7.10-4.17.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/matter-manipulator-0.1.34-GTNH-pre.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/matter-manipulator-0.1.34-GTNH-pre.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/matter-manipulator-0.1.34-GTNH-pre.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for matter-manipulator-0.1.34-GTNH-pre.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding matter-manipulator-0.1.34-GTNH-pre.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: matter-manipulator-0.1.34-GTNH-pre.jar has core plugin com.recursive_pineapple.matter_manipulator.MMModCore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class MMModCore
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.recursive_pineapple.matter_manipulator.MMModCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod MMModCore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/matter-manipulator-0.1.34-GTNH-pre.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/matter-manipulator-0.1.34-GTNH-pre.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/matter-manipulator-0.1.34-GTNH-pre.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/matter-manipulator-0.1.34-GTNH-pre.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/matter-manipulator-0.1.34-GTNH-pre.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/mobsinfo-0.5.10-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/mobsinfo-0.5.10-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/mobsinfo-0.5.10-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for mobsinfo-0.5.10-GTNH.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding mobsinfo-0.5.10-GTNH.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: mobsinfo-0.5.10-GTNH.jar has core plugin com.kuba6000.mobsinfo.mixin.EarlyMixinLoader. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class EarlyMixinLoader
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.kuba6000.mobsinfo.mixin.EarlyMixinLoader requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod EarlyMixinLoader
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/mobsinfo-0.5.10-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/mobsinfo-0.5.10-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/mobsinfo-0.5.10-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/mobsinfo-0.5.10-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/mobsinfo-0.5.10-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui-1.3.4.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui-1.3.4.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui-1.3.4.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for modularui-1.3.4.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding modularui-1.3.4.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: modularui-1.3.4.jar has core plugin com.gtnewhorizons.modularui.mixinplugin.EarlyMixinLoader. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class EarlyMixinLoader
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.gtnewhorizons.modularui.mixinplugin.EarlyMixinLoader requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod EarlyMixinLoader
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui-1.3.4.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui-1.3.4.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui-1.3.4.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui-1.3.4.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui-1.3.4.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui2-2.3.64-1.7.10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui2-2.3.64-1.7.10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui2-2.3.64-1.7.10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for modularui2-2.3.64-1.7.10.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding modularui2-2.3.64-1.7.10.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: modularui2-2.3.64-1.7.10.jar has core plugin com.cleanroommc.modularui.core.ModularUICore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class ModularUICore
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.cleanroommc.modularui.core.ModularUICore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod ModularUICore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui2-2.3.64-1.7.10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui2-2.3.64-1.7.10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui2-2.3.64-1.7.10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui2-2.3.64-1.7.10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/modularui2-2.3.64-1.7.10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/navigator-1.1.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/navigator-1.1.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/navigator-1.1.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for navigator-1.1.3.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding navigator-1.1.3.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: navigator-1.1.3.jar has core plugin com.gtnewhorizons.navigator.core.NavigatorCore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class NavigatorCore
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.gtnewhorizons.navigator.core.NavigatorCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod NavigatorCore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/navigator-1.1.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/navigator-1.1.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/navigator-1.1.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/navigator-1.1.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/navigator-1.1.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neodymium-mc1.7.10-0.4.3-unofficial.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neodymium-mc1.7.10-0.4.3-unofficial.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neodymium-mc1.7.10-0.4.3-unofficial.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for neodymium-mc1.7.10-0.4.3-unofficial.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding neodymium-mc1.7.10-0.4.3-unofficial.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neodymium-mc1.7.10-0.4.3-unofficial.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neodymium-mc1.7.10-0.4.3-unofficial.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neodymium-mc1.7.10-0.4.3-unofficial.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neodymium-mc1.7.10-0.4.3-unofficial.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neodymium-mc1.7.10-0.4.3-unofficial.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neverenoughanimations-v1.0.6-1-7-10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neverenoughanimations-v1.0.6-1-7-10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neverenoughanimations-v1.0.6-1-7-10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for neverenoughanimations-v1.0.6-1-7-10.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding neverenoughanimations-v1.0.6-1-7-10.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: neverenoughanimations-v1.0.6-1-7-10.jar has core plugin com.cleanroommc.neverenoughanimations.core.NEACore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class NEACore
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.cleanroommc.neverenoughanimations.core.NEACore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod NEACore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neverenoughanimations-v1.0.6-1-7-10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neverenoughanimations-v1.0.6-1-7-10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neverenoughanimations-v1.0.6-1-7-10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neverenoughanimations-v1.0.6-1-7-10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/neverenoughanimations-v1.0.6-1-7-10.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opticubes-1.7.10-1.0.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opticubes-1.7.10-1.0.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opticubes-1.7.10-1.0.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for Opticubes-1.7.10-1.0.0.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding Opticubes-1.7.10-1.0.0.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opticubes-1.7.10-1.0.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opticubes-1.7.10-1.0.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opticubes-1.7.10-1.0.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opticubes-1.7.10-1.0.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Opticubes-1.7.10-1.0.0.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ProjRed-4.12.38-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ProjRed-4.12.38-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ProjRed-4.12.38-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for ProjRed-4.12.38-GTNH.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding ProjRed-4.12.38-GTNH.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: ProjRed-4.12.38-GTNH.jar has core plugin mrtjp.projectred.exploration.mixins.EarlyMixinLoader. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class EarlyMixinLoader
+[13:26:40] [main/DEBUG] [FML/]: The coremod mrtjp.projectred.exploration.mixins.EarlyMixinLoader requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod EarlyMixinLoader
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ProjRed-4.12.38-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ProjRed-4.12.38-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ProjRed-4.12.38-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ProjRed-4.12.38-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ProjRed-4.12.38-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/RandomThings-2.7.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/RandomThings-2.7.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/RandomThings-2.7.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for RandomThings-2.7.1.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding RandomThings-2.7.1.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: RandomThings-2.7.1.jar has core plugin lumien.randomthings.Mixins.RandomThingsLoadingPluing. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class RandomThingsLoadingPluing
+[13:26:40] [main/DEBUG] [FML/]: The coremod lumien.randomthings.Mixins.RandomThingsLoadingPluing requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod RandomThingsLoadingPluing
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/RandomThings-2.7.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/RandomThings-2.7.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/RandomThings-2.7.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/RandomThings-2.7.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/RandomThings-2.7.1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Satchels-1.7.10-1.0.7.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Satchels-1.7.10-1.0.7.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Satchels-1.7.10-1.0.7.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for Satchels-1.7.10-1.0.7.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding Satchels-1.7.10-1.0.7.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Satchels-1.7.10-1.0.7.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Satchels-1.7.10-1.0.7.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Satchels-1.7.10-1.0.7.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Satchels-1.7.10-1.0.7.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/Satchels-1.7.10-1.0.7.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ServerUtilities-2.2.32.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ServerUtilities-2.2.32.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ServerUtilities-2.2.32.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for ServerUtilities-2.2.32.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding ServerUtilities-2.2.32.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: ServerUtilities-2.2.32.jar has core plugin serverutils.core.ServerUtilitiesCore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class ServerUtilitiesCore
+[13:26:40] [main/DEBUG] [FML/]: The coremod serverutils.core.ServerUtilitiesCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod ServerUtilitiesCore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ServerUtilities-2.2.32.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ServerUtilities-2.2.32.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ServerUtilities-2.2.32.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ServerUtilities-2.2.32.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/ServerUtilities-2.2.32.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/shaderfixer-5.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/shaderfixer-5.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/shaderfixer-5.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for shaderfixer-5.3.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding shaderfixer-5.3.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: shaderfixer-5.3.jar has core plugin com.kotmatross.shaderfixer.asm.plugin.ShaderFixerEarlyMixins. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class ShaderFixerEarlyMixins
+[13:26:40] [main/TRACE] [FML/]: coremod named ShaderFixerEarlyMixins is loading
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.kotmatross.shaderfixer.asm.plugin.ShaderFixerEarlyMixins requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod ShaderFixerEarlyMixins
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/shaderfixer-5.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/shaderfixer-5.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/shaderfixer-5.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/shaderfixer-5.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/shaderfixer-5.3.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/StorageDrawers-2.2.21-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/StorageDrawers-2.2.21-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/StorageDrawers-2.2.21-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for StorageDrawers-2.2.21-GTNH.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding StorageDrawers-2.2.21-GTNH.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: StorageDrawers-2.2.21-GTNH.jar has core plugin com.jaquadro.minecraft.storagedrawers.mixins.EarlyMixinsLoader. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class EarlyMixinsLoader
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.jaquadro.minecraft.storagedrawers.mixins.EarlyMixinsLoader requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod EarlyMixinsLoader
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/StorageDrawers-2.2.21-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/StorageDrawers-2.2.21-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/StorageDrawers-2.2.21-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/StorageDrawers-2.2.21-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/StorageDrawers-2.2.21-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/structurelib-1.4.34.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/structurelib-1.4.34.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/structurelib-1.4.34.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for structurelib-1.4.34.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding structurelib-1.4.34.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: structurelib-1.4.34.jar has core plugin com.gtnewhorizon.structurelib.core.StructureLibCore. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class StructureLibCore
+[13:26:40] [main/DEBUG] [FML/]: The coremod com.gtnewhorizon.structurelib.core.StructureLibCore requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod StructureLibCore
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/structurelib-1.4.34.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/structurelib-1.4.34.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/structurelib-1.4.34.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/structurelib-1.4.34.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/structurelib-1.4.34.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/tabfaces-1.0.11-rc1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/tabfaces-1.0.11-rc1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/tabfaces-1.0.11-rc1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for tabfaces-1.0.11-rc1.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding tabfaces-1.0.11-rc1.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: tabfaces-1.0.11-rc1.jar has core plugin org.fentanylsolutions.tabfaces.core.EarlyMixinLoader. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class EarlyMixinLoader
+[13:26:40] [main/DEBUG] [FML/]: The coremod org.fentanylsolutions.tabfaces.core.EarlyMixinLoader requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod EarlyMixinLoader
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/tabfaces-1.0.11-rc1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/tabfaces-1.0.11-rc1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/tabfaces-1.0.11-rc1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/tabfaces-1.0.11-rc1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/tabfaces-1.0.11-rc1.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding agents for Mixin Container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/VillageNames-4.5.8-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/VillageNames-4.5.8-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/VillageNames-4.5.8-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: ForceLoadAsMod was specified for VillageNames-4.5.8-GTNH.jar, attempting force-load
+[13:26:40] [main/DEBUG] [mixin/]: Adding VillageNames-4.5.8-GTNH.jar to reparseable coremod collection
+[13:26:40] [main/DEBUG] [mixin/]: VillageNames-4.5.8-GTNH.jar has core plugin astrotibs.villagenames.coremod.VillageNamesCoreMod. Injecting it into FML for co-initialisation:
+[13:26:40] [main/DEBUG] [FML/]: Instantiating coremod class VillageNamesCoreMod
+[13:26:40] [main/DEBUG] [FML/]: The coremod astrotibs.villagenames.coremod.VillageNamesCoreMod requested minecraft version 1.7.10 and minecraft is 1.7.10. It will be loaded.
+[13:26:40] [main/DEBUG] [FML/]: Enqueued coremod VillageNamesCoreMod
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/VillageNames-4.5.8-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentLiteLoaderLegacy for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/VillageNames-4.5.8-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentLiteLoaderLegacy rejected container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/VillageNames-4.5.8-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/VillageNames-4.5.8-GTNH.jar)
+[13:26:40] [main/DEBUG] [mixin/]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/dimos/AppData/Roaming/.crystal-launcher/game/mods/VillageNames-4.5.8-GTNH.jar)
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/INFO] [LaunchWrapper/]: Loading tweak class name me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/INFO] [LaunchWrapper/]: Loading tweak class name fastcraft.Tweaker
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/WARN] [LaunchWrapper/]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[13:26:40] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[13:26:40] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:26:40] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:26:40] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:26:40] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+[13:26:40] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+[13:26:40] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+[13:26:40] [main/INFO] [coretweaks/]: Replacing cpw.mods.fml.common.asm.transformers.SideTransformer with 2 wrappers: [CachedTransformerWrapper, PatternConditionalTransformerWrapper]
+[13:26:40] [main/TRACE] [FML/]: Registering transformer cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+[13:26:40] [main/DEBUG] [FML/]: Injection complete
+[13:26:40] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+[13:26:40] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[13:26:41] [main/DEBUG] [FML/]: Read 527 binary patches
+[13:26:41] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:26:42] [main/INFO] [FML/]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[13:26:42] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[13:26:42] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:26:42] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[13:26:42] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.classloading.FluidIdTransformer
+[13:26:42] [main/INFO] [coretweaks/]: Replacing net.minecraftforge.classloading.FluidIdTransformer with 2 wrappers: [CachedTransformerWrapper, PatternConditionalTransformerWrapper]
+[13:26:42] [main/DEBUG] [FML/]: Injection complete
+[13:26:42] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[13:26:42] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[13:26:42] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[13:26:42] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:26:42] [main/DEBUG] [FML/]: Injecting coremod MyceliumCoreMod {cn.tesseract.mycelium.MyceliumCoreMod} class transformers
+[13:26:42] [main/TRACE] [FML/]: Registering transformer cn.tesseract.mycelium.asm.minecraft.PrimaryClassTransformer
+[13:26:42] [main/INFO] [STDOUT/]: [cn.tesseract.mycelium.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container cn.tesseract.mycelium.asm.minecraft.SecondaryTransformerHook
+[13:26:42] [main/INFO] [FML/]: [HOOKLIB]  Obfuscated: true
+[13:26:42] [main/DEBUG] [FML/]: Injection complete
+[13:26:42] [main/DEBUG] [FML/]: Running coremod plugin for MyceliumCoreMod {cn.tesseract.mycelium.MyceliumCoreMod}
+[13:26:42] [main/DEBUG] [FML/]: Running coremod plugin MyceliumCoreMod
+[13:26:42] [main/INFO] [STDOUT/]: [cn.tesseract.mycelium.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container cn.tesseract.mycelium.hook.NoclipHook
+[13:26:42] [main/INFO] [STDOUT/]: [cn.tesseract.mycelium.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container cn.tesseract.mycelium.hook.BlackBlockHook
+[13:26:42] [main/INFO] [STDOUT/]: [cn.tesseract.mycelium.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container cn.tesseract.mycelium.hook.FastLangHook
+[13:26:42] [main/DEBUG] [FML/]: Coremod plugin class MyceliumCoreMod run successfully
+[13:26:42] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:26:42] [main/DEBUG] [FML/]: Injecting coremod ASJHookLoader {alexsocol.patcher.asm.ASJHookLoader} class transformers
+[13:26:42] [main/TRACE] [FML/]: Registering transformer gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+[13:26:42] [main/INFO] [Hooklib/]: Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[13:26:42] [main/INFO] [FML/]: [HOOKLIB] Obfuscated: true
+[13:26:42] [main/TRACE] [FML/]: Registering transformer alexsocol.asjlib.asm.ASJASM
+[13:26:42] [main/TRACE] [FML/]: Registering transformer alexsocol.asjlib.asm.ASJGoto
+[13:26:42] [main/TRACE] [FML/]: Registering transformer alexsocol.patcher.asm.transformer.ASJAccessTransformer
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.NoSuchMethodError: com.google.common.io.CharSource.readLines(Lcom/google/common/io/LineProcessor;)Ljava/lang/Object;
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.asm.transformers.AccessTransformer.processATFile(AccessTransformer.java:125)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.asm.transformers.AccessTransformer.readMapFile(AccessTransformer.java:120)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.common.asm.transformers.AccessTransformer.<init>(AccessTransformer.java:101)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at alexsocol.patcher.asm.transformer.ASJAccessTransformer.<init>(ASJAccessTransformer.kt:5)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Class.newInstance(Class.java:442)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.launchwrapper.LaunchClassLoader.registerTransformer(LaunchClassLoader.java:88)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:108)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115)
+[13:26:42] [main/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
