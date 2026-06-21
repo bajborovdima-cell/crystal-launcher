@@ -35,6 +35,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: CrystalLauncher-${{ matrix.os }}
-          path: |
-            minecraft-launcher/dist/*.{AppImage,dmg,deb}
-            minecraft-launcher/dist/win-unpacked/**/*
+          path: minecraft-launcher/dist/**
