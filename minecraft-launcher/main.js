@@ -1154,13 +1154,16 @@ async function launchMinecraft(username, version, modloader, jvmArgs, gameArgs) 
 
     let mainClass = versionData.mainClass || 'net.minecraft.client.main.Main';
     const vNum = parseVersion(version);
+    // Офлайн UUID (стабильный, по нику) — как у официального лаунчера
+    const offlineUuid = crypto.createHash('md5').update('OfflinePlayer:' + username).digest('hex').replace(/^(.{8})(.{4})(.{4})(.{4})(.{12})$/, '$1-$2-$3-$4-$5');
+
     let mcArgs = [
       '--username', username,
       '--version', version,
       '--gameDir', path.join(MC_DIR, 'game'),
       '--assetsDir', ASSETS_DIR,
       '--assetIndex', versionData.assetIndex.id,
-      '--uuid', crypto.randomUUID(),
+      '--uuid', offlineUuid,
       '--accessToken', '0',
       '--userType', 'mojang',
       '--versionType', 'release',
