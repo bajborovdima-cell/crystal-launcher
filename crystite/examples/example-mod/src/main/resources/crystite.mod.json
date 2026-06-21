@@ -1,0 +1,12 @@
+{
+    "id": "example-mod",
+    "version": "1.0.0",
+    "name": "Example Mod",
+    "description": "An example mod demonstrating Crystite features",
+    "authors": ["Crystite Team"],
+    "entrypoints": {
+        "main": "com.example.ExampleMod"
+    },
+    "mixins": ["example-mod.mixin.json"],
+    "license": "MIT"
+}

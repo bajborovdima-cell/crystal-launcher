@@ -2,6 +2,7 @@
   "name": "crystal-launcher",
   "version": "1.0.0",
   "description": "Crystal Launcher — Minecraft",
+  "author": "Crystal Launcher <bajborovdima.cell@gmail.com>",
   "main": "main.js",
   "repository": "bajborovdima-cell/crystal-launcher",
   "scripts": {
